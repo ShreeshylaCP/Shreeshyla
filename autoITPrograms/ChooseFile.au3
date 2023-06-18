@@ -1,0 +1,12 @@
+Sleep(1000);
+Send("{TAB}");
+Sleep(500);
+Send("{TAB}");
+Sleep(500);
+Send("{TAB}");
+Sleep(500);
+Send("{TAB}");
+Sleep(500);
+Send("{TAB}");
+Sleep(500);
+Send("{ENTER}");
